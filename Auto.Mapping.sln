@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto.Mapping", "Auto.Mapping\Auto.Mapping.csproj", "{AA1D5FD0-A4ED-43B5-BF35-1E84A22884C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto.Mapping.Tests", "Auto.Mapping.Tests\Auto.Mapping.Tests.csproj", "{BA48FDAA-C634-4673-A327-C27D65E1F15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1D5FD0-A4ED-43B5-BF35-1E84A22884C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1D5FD0-A4ED-43B5-BF35-1E84A22884C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1D5FD0-A4ED-43B5-BF35-1E84A22884C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1D5FD0-A4ED-43B5-BF35-1E84A22884C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA48FDAA-C634-4673-A327-C27D65E1F15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA48FDAA-C634-4673-A327-C27D65E1F15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA48FDAA-C634-4673-A327-C27D65E1F15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA48FDAA-C634-4673-A327-C27D65E1F15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A948982C-4C63-41D1-813C-401CC2B131E5}
+	EndGlobalSection
+EndGlobal
